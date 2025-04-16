@@ -31,3 +31,8 @@ Elle offre des fonctionnalités complètes pour la modélisation et le reverse e
 
    ```bash
    mvn clean install
+   ```
+2.Exécuter l'application :
+```bash
+mvn exec:java
+```
